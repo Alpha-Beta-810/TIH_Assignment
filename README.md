@@ -74,13 +74,5 @@ Click open `14-Exploratory_data_analysis_with_sales_data_Summer_2026.ipynb` and 
 * **Data Privacy / Optimization:** Large runtime files or structural deviations are intentionally isolated to safeguard rapid repository fetching.
 
 ```
-
 ---
 
-### To push this to your repository now:
-```bash
-git add README.md
-git commit -m "Add professional README documentation"
-git push origin main
-
-```
