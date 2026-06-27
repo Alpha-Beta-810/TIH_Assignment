@@ -72,7 +72,5 @@ Click open `14-Exploratory_data_analysis_with_sales_data_Summer_2026.ipynb` and 
 
 * **Clean Caching:** A `.gitignore` file is used to suppress system artifacts (`__pycache__/`, `.ipynb_checkpoints/`) keeping the version history minimal and efficient.
 * **Data Privacy / Optimization:** Large runtime files or structural deviations are intentionally isolated to safeguard rapid repository fetching.
-
-```
 ---
 
